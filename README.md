@@ -1,8 +1,8 @@
 # bluefin-surface &nbsp; [![bluebuild build badge](https://github.com/libanp/bluefin-surface/actions/workflows/build.yml/badge.svg)](https://github.com/libanp/bluefin-surface/actions/workflows/build.yml)
 
-See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
+A custom build of bluefin with the linux-surface kernel. No Nvidia support.
 
-After setup, it is recommended you update this README to describe your custom image.
+Built with bluebuild.
 
 ## Installation
 
